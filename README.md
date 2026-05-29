@@ -1,4 +1,4 @@
-My second repository.
+My first repository.
 
 Project description
 
